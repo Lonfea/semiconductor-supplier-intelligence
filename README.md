@@ -8,6 +8,10 @@ An auditable decision-support platform for semiconductor foundry market intellig
 
 > Independent portfolio project using synthetic data. It is not affiliated with or endorsed by Infineon Technologies or any supplier.
 
+## Dashboard preview
+
+![Semiconductor Supplier Intelligence dashboard preview](docs/assets/dashboard-preview.png)
+
 ## Why it matters
 
 External wafer manufacturing teams must combine incomplete technical, operational, geographic and commercial signals. This project demonstrates how a governed data product can make those signals comparable without hiding uncertainty.
@@ -71,4 +75,3 @@ API documentation is available at `http://localhost:8000/docs`.
 - Synthetic demo data keeps the repository reproducible and free of confidential information.
 
 See [architecture and governance](docs/architecture.md) for assumptions and limitations.
-
